@@ -23,7 +23,8 @@
     "styled-components": "^5.3.5",
     "timeago": "^1.6.7",
     "timeago.js": "^4.0.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "axios": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
